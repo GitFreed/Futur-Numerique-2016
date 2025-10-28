@@ -4,7 +4,7 @@ Conférence enregistrée en 2016
 
 - *Lien vers [le fichier audio et la transcription](https://mega.nz/folder/J0FW3Cob#649uDaBItmCzPogPTJJiKw)*
 - *Transcription : Whisper ggml-large-v2*
-- *Résumé : Gamini Pro 2.5*
+- *Résumé : Gemini Pro 2.5*
 
 #### **1. De l'Internet à l'Écosystème Numérique (le "Symbionet")**
 
