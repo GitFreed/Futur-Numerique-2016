@@ -1,8 +1,11 @@
 ### **Résumé de la conférence "Futur Numérique avec Joël de Rosnay" (2016)**
 
 *Conférence enregistrée en 2016 *
+
 *Lien vers [le fichier audio et la transcription](https://mega.nz/folder/J0FW3Cob#649uDaBItmCzPogPTJJiKw)*
+
 *Transcription : Whisper ggml-large-v2*
+
 *Résumé : Gamini Pro 2.5*
 
 Cette conférence, donnée par le scientifique et prospectiviste Joël de Rosnay, dresse un panorama des transformations profondes induites par la révolution numérique, en se projetant vers l'entreprise et la société de 2030. Loin d'être une simple crise, nous vivons un véritable **changement de monde**.
